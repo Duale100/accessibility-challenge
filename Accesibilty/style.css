@@ -9,7 +9,7 @@
 
 html {
     
-    padding: 20px;
+    padding: 0px;
 }
 
 
@@ -86,7 +86,7 @@ body {
     padding: 20px 25px;
     color: white;
     text-align: center;
-    font-family: 'Garamond', sans-serif;
+    font-family: 'Garamond';
     margin-top: 0px;
     
     
@@ -112,65 +112,27 @@ body {
 }
 
 
-#logo
-{
-    float: left;
-    margin-top: 50px;
-    margin-left: 50px;
-    width: 640px;
-    height: 418px;
-    border: 0.5px solid navy;
-    border-radius: 10px;
-    
-    
-}
 
 .text {
     
-    float: left;
-    width: 50%;
-    height: 400px;
-    margin: 0 auto;
-    padding: 20px;
-    color: white;
-    background-color: #172144;
     font-size: 19px;
     font-family: 'Century gothic', sans-serif;
-    
-}
-
-#pic1 {
-    float: right;
+    text-align: left;
+    padding: 10px;
     margin: 0 auto;
-    width: 50%;
-    height: 400px;
+    width: 70%;
 }
 
-.text2 {
-    
-    float: right;
-    width: 50%;
-    height: 400px;
-    margin: 10px auto;
+footer 
+{
     padding: 20px;
-    color: white;
-    background-color: #172144;
-    font-size: 19px;
-    font-family: 'Century gothic', sans-serif;
-    
-}
-
-#pic2 {
-    float: left;
-    margin: 10px auto;
-    width: 50%;
-    height: 400px;
-}
-
-.footer  {
     background-color: #481B21;
-    padding: 20px 10px;
+    font-size: 20px;
+    font-family: 'Century', sans-serif;
+    margin: 20px;
     color: white;
-    font-family: "garamond", sans-serif;
-    margin-top: 820px;
 }
+
+
+
+
